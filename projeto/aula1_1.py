@@ -11,9 +11,13 @@ String são textos que estão dentro de aspas
 '''
 
 #Aspas simples
+print('"Ricardo Souza"')
 
 #Aspas duplas
+print("'Ricardo Souza'")
 
 #Escape
+print("Ricardo \"Souza\"")
 
 #r -> expressões regulares
+print(r"Ricardo \"Souza\"")
